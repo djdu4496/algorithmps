@@ -14,7 +14,7 @@ package programmers.level3;
  * computer[i][i]는 항상 1입니다.
  * 
  * #입출력 예
- * n	computers	return
+ * n	computers							return
  * 3	[[1, 1, 0], [1, 1, 0], [0, 0, 1]]	2
  * 3	[[1, 1, 0], [1, 1, 1], [0, 1, 1]]	1
  */
